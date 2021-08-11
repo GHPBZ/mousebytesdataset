@@ -448,22 +448,6 @@
           "value": "Sara Memar, smemarko@uwo.ca"
         }
       ]
-    },
-    {
-      "category": "derivedFrom",
-      "values": [
-        {
-          "value": "Touchscreen Technology"
-        }
-      ]
-    },
-    {
-      "category": "parent_dataset_id",
-      "values": [
-        {
-          "value": ""
-        }
-      ]
     }
   ]
 }
