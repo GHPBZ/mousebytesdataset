@@ -37,7 +37,7 @@
     }
   ],
   "version": "1",
-  "privacy": "public",
+  "privacy": "open",
   "licenses": [
     {
       "name": "CC0"
