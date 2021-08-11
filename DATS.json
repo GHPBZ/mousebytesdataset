@@ -335,9 +335,13 @@
     }
   ],
   "isAbout": [
-    {
-      "name": "Cognitive behavioral data from Alzheimer’s mouse models"
-    }
+		{
+			"identifier": {
+				"identifier": "10090",
+				"identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10090"
+			},
+			"name":"Mus musculus"
+		}
   ],
   "acknowledges": [
     {
