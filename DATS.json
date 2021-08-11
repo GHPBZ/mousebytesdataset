@@ -7,8 +7,6 @@
   },
   "creators": [
     {
-      "name": "BrainsCan, The University of Western Ontario",
-      "abbreviation": "uwo",
       "fullName": "Dr. Marco Prado",
       "firstName": "Marco",
       "lastName": "Prado",
@@ -20,8 +18,6 @@
       ]
     },
     {
-      "name": "University of Guelph",
-      "abbreviation": "uoguelph",
       "fullName": "Dr. Boyer Winters",
       "firstName": "Boyer",
       "lastName": "Winters",
@@ -52,7 +48,7 @@
       "formats": [
         "CSV"
       ],
-      "size": "100",
+      "size": 100,
       "unit": {
         "value": "MB"
       },
@@ -326,8 +322,10 @@
       ],
       "dates": [
         {
-          "description": "",
-          "date": "2019-12-11"
+          "type": {
+			   "value": "not specified"
+          },
+          "date": "2019-12-11 00:00:00"
         }
       ],
       "identifier": {
