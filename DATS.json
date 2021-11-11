@@ -2,8 +2,7 @@
   "title": "Alzheimer’s mouse models dataset",
   "description": "This dataset has data files from 5-Choice, Pairwise Visual Discrimination (PVD), and Paired-Associates Learning (PAL) cognitive behavioral tasks in which male and female mice from 3 Alzheimer’s mouse models were tested using touchscreen technology at two different sites (e.g. University of Western Ontario and University of Guelph). Both aggregated data and trial-by-trial data are provided in this dataset. ",
   "identifier": {
-    "identifier": "10.7554/eLife.49630",
-    "identifierSource": "https://elifesciences.org/articles/49630"
+    "identifier": "https://elifesciences.org/articles/49630"
   },
   "creators": [
     {
@@ -329,16 +328,15 @@
         }
       ],
       "identifier": {
-        "identifier": "10.7554/eLife.49630",
-        "identifierSource": "https://elifesciences.org/articles/49630"
+        "identifier": "https://elifesciences.org/articles/49630"
       }
     }
   ],
   "isAbout": [
 		{
 			"identifier": {
-				"identifier": "10090",
-				"identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10090"
+				"identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10090",
+				"identifierSource": "NCBI Taxonomy Database"
 			},
 			"name":"Mus musculus"
 		}
